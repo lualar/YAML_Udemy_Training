@@ -1,6 +1,6 @@
 firstname: Alfonso
 lastname: Alvarez
 courses:
-  -YAML
-  -Microservices Architecture
-  -DevOps Azure
+  - YAML
+  - Microservices Architecture
+  - DevOps Azure
